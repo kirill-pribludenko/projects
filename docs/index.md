@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Приветствую!
 
-You can use the [editor on GitHub](https://github.com/kirill-pribludenko/projects/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Решил сделать данную страничку чистовиков своих проектов с целями:
+- упорядочивания работ
+- возможности быстрого доступа к своим наработкам
+- визитной карточки
+Надеюсь, что мои проекты будут для Вас интересными и познавательными. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Коротко о себе
 
-### Markdown
+Закончил ТУСУР, последние 7 лет тружусь инженером радиосвязи. Всегда хотелось глубже окунуться в мир программирования, склонности были еще со школы. И звезды так сошлись, что в прошлом году поступил в Яндекс-Практикум по направлению Data-Science. Соответственно большинство проектов ниже были выполнены во время обучения.
+Не собираюсь останавливаться на достигнутом, продолжаю обучение и список проектов будет шириться.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Проекты
 
-```markdown
-Syntax highlighted code block
+Свел все проекты в таблицу ниже.
 
-# Header 1
-## Header 2
-### Header 3
+### Контакты
 
-- Bulleted
-- List
+Если у Вас есть какие-то вопросы - пишите, всегда рад хорошим людям 8)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kirill-pribludenko/projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Телеграмм - ...
+Кеггл - ...
+Почта - ...
