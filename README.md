@@ -8,4 +8,5 @@ Table "My projects"
 |---	|---	|---  |---	|---	|
 | 1 | [Metallurgical Plant](1/project_16.ipynb) | Regression  | `LinReg`, `RandForest`, `Catboost`, `Optuna` | Specific - EDA, extract features from 7 tables and the reduction into one table |
 | 2 | [Age prediction by foto](2/project_14.ipynb)   	| CV, Regression  |`ResNet50`, `Keras`  | Specific - first CV project    	|
+| 3 | [Comments classification](3/project_12.ipynb)   	| NLP, Classification  |`TF-IDF`, `BERT`  | Specific - two options are considered    	|
 |   	| will be soon  	|   	|   	|
