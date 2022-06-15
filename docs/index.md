@@ -20,8 +20,8 @@
 |:---:|:---:      |:---:    |:---: |:---:                   |---           |
 | 1   | [Предсказание температуры стали](https://github.com/kirill-pribludenko/projects/blob/main/1/project_16.ipynb) | Промышленность | Регрессия  | `LinReg`, `RandForest`, `Catboost`, `Optuna` | Особенности - EDA, нужно было выделить признаки из разных таблиц по определенному интервалу времени |
 | 2   | [Предсказание возраста по фото](https://github.com/kirill-pribludenko/projects/blob/main/2/project_14.ipynb)  | Ритейл         | Комп.Зрение, Регресиия  | `ResNet50`, `Keras`  | Первый CV проект    	|
-| N   |   	      |   	  |   	 |                        |              |
-|     | продолжение следует |
+| 3   | [Классификация текста](https://github.com/kirill-pribludenko/projects/blob/main/3/project_12.ipynb)   	| Ритейл         | NLP, Классификация  |`TF-IDF` `BERT` `LogReg` `Catboost`  | Рассмотрены два варианта решения    	|
+| N   | продолжение следует |
 
 ### Контакты
 
