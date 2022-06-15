@@ -7,5 +7,5 @@ Table "My projects"
 | №   | Name  | Type  | Method  | Comments  |
 |---	|---	|---  |---	|---	|
 | 1 | [Metallurgical Plant](1/project_16.ipynb) | Regression  | `LinReg`, `RandForest`, `Catboost`, `Optuna` | Specific - EDA, extract features from 7 tables and the reduction into one table |
-| 2 | []()   	| `CV`, `Regression`  |Specific - first CV project    	|
+| 2 | [Age prediction by foto](2/project_14.ipynb)   	| `CV`, `Regression`  |Specific - first CV project    	|
 |   	| will be soon  	|   	|   	|
