@@ -6,6 +6,6 @@ I will keep a table with projects, and fill it gradually.
 Table "My projects"
 | №   | Name  | Type  | Method  | Comments  |
 |---	|---	|---  |---	|---	|
-| 1 | [For_Junior_ML_Contest](1/For_Junior_ML_Contest.ipynb) | Regression  | LinReg, RandForest, Catboost + optuna | Specific - EDA, extract features from 7 tables and the reduction into one table |
+| 1 | [Metallurgical Plant](1/project_16.ipynb) | Regression  | LinReg, RandForest, Catboost + optuna | Specific - EDA, extract features from 7 tables and the reduction into one table |
 | will be soon  |   	|   	|   	|
 |   	|   	|   	|   	|
