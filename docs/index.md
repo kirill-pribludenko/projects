@@ -22,6 +22,7 @@
 | 2   | [Предсказание возраста по фото](https://github.com/kirill-pribludenko/projects/blob/main/2/project_14.ipynb)  | Ритейл         | Комп.Зрение, Регресиия  | `ResNet50`, `Keras`  | Первый CV проект    	|
 | 3   | [Классификация текста](https://github.com/kirill-pribludenko/projects/blob/main/3/project_12.ipynb)   	| Ритейл         | NLP, Классификация  |`TF-IDF` `BERT` `LogReg` `Catboost`  | Рассмотрены два варианта решения    	|
 | 4   | [Предсказание временных рядов](https://github.com/kirill-pribludenko/projects/blob/main/4/project_11.ipynb)   	| Такси | Регрессия  |`TimeSeriesSplit` `RandForest` `Catboost` `GridSearchCV`  | Множество графиков    	|
+| 5 | [Определение стоимость авто](https://github.com/kirill-pribludenko/projects/blob/main/5/project_10.ipynb)   	| Торговля | Регрессия  |`Linear Regression` `RandForest` `Catboost`  `LGB` `GridSearchCV`  | Сравнение моделей по времени    	|
 | N   | продолжение следует |
 
 ### Контакты
