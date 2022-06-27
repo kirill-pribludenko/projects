@@ -10,5 +10,5 @@ Table "My projects"
 | 2 | [Age prediction by foto](2/project_14.ipynb)   	| CV, Regression  |`ResNet50` `Keras`  | First CV project    	|
 | 3 | [Comments classification](3/project_12.ipynb)   	| NLP, Classification  |`TF-IDF` `BERT` `LogReg` `Catboost`  | Two options are considered    	|
 | 4 | [Time series prediction](4/project_11.ipynb)   	| Regression  |`TimeSeriesSplit` `RandForest` `Catboost` `GridSearchCV`  | Lots of graphs    	|
-| 5 | [Boosting + RunTime](5/project_10.ipynb)   	| Regression  |`TimeSeriesSplit` `RandForest` `Catboost` `GridSearchCV`  | Lots of graphs    	|
+| 5 | [Boosting + RunTime](5/project_10.ipynb)   	| Regression  |`Linear Regression` `RandForest` `Catboost`  `LGB` `GridSearchCV`  | Runtime    	|
 |   	| will be soon  	|   	|   	|
