@@ -25,6 +25,7 @@
 | 5 | [Определение стоимости авто](https://github.com/kirill-pribludenko/projects/blob/main/5/project_10.ipynb)   	| Торговля | Регрессия  |`Linear Regression` `RandForest` `Catboost`  `LGB` `GridSearchCV`  | Сравнение моделей по времени    	|
 | 6 | [Прогноз концентрации золота](https://github.com/kirill-pribludenko/projects/blob/main/6/project_08.ipynb)   	| Промышленность | Регрессия  |`Linear Regression` `Catboost` `custom metric`  | EDA, множество граффиков |
 | 7 | [Выбор региона для бурения](https://github.com/kirill-pribludenko/projects/blob/main/7/project_07.ipynb)   	| Промышленность | Регрессия  |`Linear Regression` `Mathplotlib`  | Bootstrep    	|
+| 8 | [Отток клиентов](https://github.com/kirill-pribludenko/projects/blob/main/8/project_06.ipynb)   	| Классификация | Банк  |`RandForest` `SVC` `Catboost` `Mathplotlib`  | Kaggle, несбалансированный датасет    	|
 | N   | продолжение следует |
 
 ### Контакты
