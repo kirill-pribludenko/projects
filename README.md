@@ -13,4 +13,5 @@ Table "My projects"
 | 5 | [Prediction the cost of a car](5/project_10.ipynb)   	| Regression  |`Linear Regression` `RandForest` `Catboost`  `LGB` `GridSearchCV`  | Runtime    	|
 | 6 | [Gold purification process](6/project_08.ipynb)   	| Regression  |`Linear Regression` `Catboost` `custom metric`  | Big EDA    	|
 | 7 | [Choosing an oil region](7/project_07.ipynb)   	| Regression  |`Linear Regression` `Mathplotlib`  | Bootstrep    	|
+| 8 | [Churn customers](8/project_06.ipynb)   	| Classification  |`RandForest` `SVC` `Catboost` `Mathplotlib`  | Unbalanced dataset    	|
 |   	| will be soon  	|   	|   	|
