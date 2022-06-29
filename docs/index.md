@@ -32,7 +32,7 @@
 
 | №   | Название  | Место  | Тип  | Инструменты и Методы   | Комментарии  |
 |:---:|:---:      |:---:   |:---: |:---:                   |---           |
-| 1   | [ODS - Alice](https://github.com/kirill-pribludenko/projects/blob/main/Competitions/ods_alice/my_alice_v2.ipynb) | 108/240 | Классификация  | `Logistic Regression` `Catboost` `TF-IDF` `BERT` | Генерация признаков |
+| 1   | [ODS - Alice](https://github.com/kirill-pribludenko/projects/blob/main/Competitions/ods_alice/my_alice_v2.ipynb) | 108/240 | NLP, Классификация  | `Logistic Regression` `Catboost` `TF-IDF` `BERT` | Генерация признаков |
 
 ### Контакты
 
