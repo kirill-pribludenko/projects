@@ -25,6 +25,7 @@
 | 7 | [Выбор региона для бурения](https://github.com/kirill-pribludenko/projects/blob/main/7/project_07.ipynb)   	| Промышленность | Регрессия  |`LinearRegression` `Mathplotlib`  | Bootstrap    	|
 | 8 | [Отток клиентов](https://github.com/kirill-pribludenko/projects/blob/main/8/project_06.ipynb)   	| Банк | Классификация  |`RandForest` `SVC` `Catboost` `F-1` `ROC-AUC` `Mathplotlib`  | Kaggle, несбалансированный датасет    	|
 | 9 | [Классификация клиентов](https://github.com/kirill-pribludenko/projects/blob/main/9/project_05.ipynb)   	| Телеком | Классификация  | `LogisticRegression` `RandForest` `SVC` `GaussianNB` `Mathplotlib`  | Одна из первых работ по ML |
+
 В процесс обучения были выполнены еще работы, но они слишком "начальные", поэтому их не вижу смысла выкладывать.
 
 ### Соревнования
