@@ -15,4 +15,5 @@ Table "My projects"
 | 7 | [Choosing an oil region](7/project_07.ipynb)   	| Regression  |`Linear Regression` `Mathplotlib`  | Bootstrep    	|
 | 8 | [Churn customers](8/project_06.ipynb)   	| Classification  |`RandForest` `SVC` `Catboost` `Mathplotlib`  | Kaggle, Unbalanced dataset    	|
 | 9 | [Customer classification in telecom](9/project_05.ipynb)   	| Classification  | `LogisticRegression` `RandForest` `SVC` `GaussianNB` `Mathplotlib`  | One of the first ML notebooks |
+| 10 | [ODS-alice](9/project_05.ipynb)   	| Classification  | `LogisticRegression` `RandForest` `SVC` `GaussianNB` `Mathplotlib`  | One of the first ML notebooks |
 |   	| will be soon  	|   	|   	|
