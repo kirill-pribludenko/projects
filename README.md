@@ -18,7 +18,7 @@
 <tbody>
   <tr>
     <td rowspan="2">1</td>
-    <td rowspan="2"><a href="1/project_16.ipynb" target="_blank" rel="noopener noreferrer">Металлургический завод</a><br></td>
+    <td rowspan="2"><a href="1/" target="_blank" rel="noopener noreferrer">Металлургический завод</a><br></td>
     <td rowspan="2"><p align="center">Регрессия</p></td>
     <td rowspan="2">Отобрать необходимые данные из набора таблиц и предсказать конечную температуру стали</td>
     <td><b>LinearRegression, RandomForest, Catboost, Optuna</b></td>
